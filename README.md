@@ -1,8 +1,8 @@
 <img src="https://github.com/mdmanik26/mdmanik26/blob/main/github_banner.gif" align="center" width="850" height="300"/>
 
-<h1>Hi i am Md Manik ali</h1>
 
-<!--
+
+
 
 Here are some ideas to get you started:
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
