@@ -5,6 +5,8 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/MD Manik](https://www.linkedin.com/in/md-manik-81a32b2a4)) 
+## 🌐 Email:
+[![Email](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([manikaliwd@gmail.com)) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mdmanik26&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdmanik26&theme=radical&hide_border=true)<br/>
