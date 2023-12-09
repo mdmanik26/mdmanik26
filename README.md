@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/MD Manik](https://www.linkedin.com/in/md-manik-81a32b2a4)) 
+[(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/MD Manik](https://www.linkedin.com/in/md-manik-81a32b2a4)) 
 ## 🌐 Email: 
 manikaliwd@gmail.com
 
