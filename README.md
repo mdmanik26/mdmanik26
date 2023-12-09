@@ -1,4 +1,4 @@
-<img src="https://github.com/mdmanik26/mdmanik26/blob/main/github_banner.gif" align="center" width="850" height="350"/>
+<img src="https://github.com/mdmanik26/mdmanik26/blob/main/banner.png" align="center" width="850" height="350"/>
 
 ## About Me:
 - 🔭 I’m currently working for my Future
