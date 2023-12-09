@@ -1,4 +1,4 @@
-<img src="https://github.com/mdmanik26/mdmanik26/blob/main/github_banner.gif" align="center" width="800" height="400"/>
+<img src="https://github.com/mdmanik26/mdmanik26/blob/main/github_banner.gif" align="center" width="850" height="300"/>
 
 <h1>Hi i am Md Manik ali</h1>
 
