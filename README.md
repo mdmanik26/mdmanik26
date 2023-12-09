@@ -1,3 +1,7 @@
+![logo] (https://github.com/mdmanik26/mdmanik26/blob/main/github_banner.gif)
+
+
+
 <h1>Hi i am Md Manik ali</h1>
 
 <!--
