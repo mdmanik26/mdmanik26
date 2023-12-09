@@ -1,7 +1,6 @@
-### Hi there 👋
+<h1>Hi i am Md Manik ali</h1>
 
 <!--
-**mdmanik26/mdmanik26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
