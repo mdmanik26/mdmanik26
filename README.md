@@ -1,7 +1,7 @@
 <img src="https://github.com/mdmanik26/mdmanik26/blob/main/github_banner.gif" align="center" width="850" height="350"/>
 
-## 🌐 Socials:
-<p>hey I am a junior react web developer. I am working with many technologies. Notable among them are React, HTML, CSS, Tailwind CSS, JavaScript, MongoDB etc.</p>
+## My Works:
+<p>Hey! I am a junior react web developer. I am working with many technologies notable among them are React, HTML, CSS, Tailwind CSS, JavaScript, MongoDB etc.</p>
 
 
 ## 🌐 Socials:
