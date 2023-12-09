@@ -1,4 +1,4 @@
-![logo] (https://github.com/mdmanik26/mdmanik26/blob/main/github_banner.gif)
+![logo](https://github.com/mdmanik26/mdmanik26/blob/main/github_banner.gif)
 
 
 
